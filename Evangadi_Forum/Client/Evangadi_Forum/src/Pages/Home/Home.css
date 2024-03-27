@@ -1,0 +1,34 @@
+/* .textinput{
+    width: 100%;
+    height: 70px;
+    border-radius: 10px;
+    border: 2px solid gray;
+
+} */
+.wrapper{
+ color: black;   
+}
+.wrapper:hover{
+    /* height: 50px; */
+    border-radius: 20px;
+    border: 2px solid rgb(212, 140, 5);
+
+}
+.name{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.fon{
+    font-size: 1.3rem;
+    font-weight: bolder;
+    padding-left: 50px;
+    color: black;
+}
+.fon:hover{
+    color:rgb(212, 140, 5) ;
+}
+.arr:hover{
+    color:rgb(212, 140, 5) ;
+}
+.link{
+    text-decoration: none;
+}

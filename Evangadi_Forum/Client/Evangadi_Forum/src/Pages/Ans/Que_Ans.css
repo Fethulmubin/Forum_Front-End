@@ -1,0 +1,30 @@
+.title{
+    font-size: 1.3rem;
+    font-weight: bolder;
+    padding-left: 50px;
+    color: black;
+}
+.ques{
+    font-size: 1.3rem;
+    font-weight:lighter;
+    padding-left: 50px;
+    color: black;  
+}
+.ans{
+    font-size: 1.2rem;
+    font-style: italic;
+    font-weight: lighter;
+    padding-left: 50px;
+}
+.com{
+    padding-left: 50px;
+    font-weight: bold; 
+}
+.go{
+    font-style: italic;
+    font-weight: lighter;   
+}
+.txt{
+    padding-left: 100px;
+    padding-right: 100px;
+}
